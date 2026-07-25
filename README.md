@@ -1,35 +1,49 @@
-## 안녕하세요! 👋
-### 소개
-저는 한국교통대학교 컴퓨터공학과에 재학 중인 학부생입니다.<br>
-이 공간에는 제가 취미로 진행한 사이드 프로젝트들을 업로드하고 있습니다.
+<div align="center">
 
-### 기술
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 이상욱 · Sanguk Lee
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+Building practical software for real-world problems.
 
+</div>
 
-### 통계
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dltkddnr04&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltkddnr04&layout=compact)
+## [Alice](https://github.com/alice-datalab)
 
-<!--
-**dltkddnr04/dltkddnr04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Alice**는 제가 장기적으로 개발하고 있는 Cloudflare Workers 기반의 공통 인프라와 실시간 서비스, 인증, 데이터 관리, 운영 도구 생태계입니다.
 
-Here are some ideas to get you started:
+## [Bangmun](https://github.com/bangmun-kr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bangmun**은 실제 운영 중인 방문 통계 시스템입니다.
+
+## Open Source & Labs
+
+실험과 자동화를 위한 다양한 프로젝트를 개발합니다.
+
+### Streaming Auto Recorder Series
+
+- [Twitch Auto Recorder](https://github.com/dltkddnr04/Twitch-Auto-Recorder)
+- [AfreecaTV Auto Recorder](https://github.com/dltkddnr04/AfreecaTV-Auto-Recorder)
+
+### Other Projects
+
+- [TimeTree ICS Server](https://github.com/dltkddnr04/timetree_ics_server)
+- [Heartbeat Detector](https://github.com/dltkddnr04/Heartbeat_Detector)
+
+## Tech
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+
+## GitHub
+
+<p align="center">
+  <a href="https://github.com/alice-datalab">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dltkddnr04&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dltkddnr04&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dltkddnr04&theme=github_dark" />
+</p>
