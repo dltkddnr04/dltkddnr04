@@ -25,7 +25,7 @@ Building practical software for real-world problems.
 
 ### Other Projects
 
-- [ProPresenter Remote](https://github.com/dltkddnr04/propresenter-remote) — A lightweight web remote for browsing and controlling ProPresenter playlists and slides.
+- [ProPresenter Remote](https://github.com/dltkddnr04/propresenter-remote)
 - [TimeTree ICS Server](https://github.com/dltkddnr04/timetree_ics_server)
 - [Heartbeat Detector](https://github.com/dltkddnr04/Heartbeat_Detector)
 
