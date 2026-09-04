@@ -2,7 +2,7 @@
 
 # 이상욱 · Sanguk Lee
 
-Building practical software for real-world problems.
+Building and operating practical software for real-world problems.
 
 </div>
 
@@ -10,9 +10,13 @@ Building practical software for real-world problems.
 
 **Alice**는 제가 장기적으로 개발하고 있는 Cloudflare Workers 기반의 공통 인프라와 실시간 서비스, 인증, 데이터 관리, 운영 도구 생태계입니다.
 
-## [Bangmun](https://github.com/bangmun-kr)
+## [Bangmun 3.0](https://bangmun.kr)
 
-**Bangmun**은 실제 운영 중인 방문 통계 시스템입니다.
+**Bangmun**은 실제 운영 중인 방문기록·통계 시스템입니다. 현재 3.0은 React와 TypeScript, Cloudflare Workers + D1 기반의 single-Worker architecture로 production에서 운영하고 있습니다.
+
+방문기록 CRUD와 검색·자동완성, 통계·기간 비교·순위·방문 흐름, 계정·권한·billing, 운영 telemetry와 관리 기능을 하나의 애플리케이션에서 다루며, OpenAPI 3.1을 중심으로 API contract와 runtime validation을 관리합니다.
+
+[GitHub Organization](https://github.com/bangmun-kr)
 
 ## Open Source & Labs
 
