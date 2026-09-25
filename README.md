@@ -20,9 +20,9 @@ Building practical software for real-world problems.
 
 ### Streaming Auto Recorder Series
 
-- [Integrated Recorder](https://github.com/dltkddnr04/Integrated-Recorder) — Go 기반 headless/segment-native 스트림 아카이버. Twitch/AfreecaTV Auto Recorder의 현재 정신적 후계자.
-- [Twitch Auto Recorder](https://github.com/dltkddnr04/Twitch-Auto-Recorder) — legacy
-- [AfreecaTV Auto Recorder](https://github.com/dltkddnr04/AfreecaTV-Auto-Recorder) — legacy
+- [Twitch Auto Recorder](https://github.com/dltkddnr04/Twitch-Auto-Recorder) — discontinued / archived
+- [AfreecaTV Auto Recorder](https://github.com/dltkddnr04/AfreecaTV-Auto-Recorder) — discontinued / archived
+- [Integrated Recorder](https://github.com/dltkddnr04/Integrated-Recorder)
 
 ### Other Projects
 
