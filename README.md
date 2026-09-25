@@ -20,8 +20,9 @@ Building practical software for real-world problems.
 
 ### Streaming Auto Recorder Series
 
-- [Twitch Auto Recorder](https://github.com/dltkddnr04/Twitch-Auto-Recorder)
-- [AfreecaTV Auto Recorder](https://github.com/dltkddnr04/AfreecaTV-Auto-Recorder)
+- [Integrated Recorder](https://github.com/dltkddnr04/Integrated-Recorder) — Go 기반 headless/segment-native 스트림 아카이버. Twitch/AfreecaTV Auto Recorder의 현재 정신적 후계자.
+- [Twitch Auto Recorder](https://github.com/dltkddnr04/Twitch-Auto-Recorder) — legacy
+- [AfreecaTV Auto Recorder](https://github.com/dltkddnr04/AfreecaTV-Auto-Recorder) — legacy
 
 ### Other Projects
 
@@ -32,6 +33,7 @@ Building practical software for real-world problems.
 ## Tech
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
