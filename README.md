@@ -20,8 +20,8 @@ Building practical software for real-world problems.
 
 ### Streaming Auto Recorder Series
 
-- [Twitch Auto Recorder](https://github.com/dltkddnr04/Twitch-Auto-Recorder) — discontinued / archived
-- [AfreecaTV Auto Recorder](https://github.com/dltkddnr04/AfreecaTV-Auto-Recorder) — discontinued / archived
+- ~~[Twitch Auto Recorder](https://github.com/dltkddnr04/Twitch-Auto-Recorder)~~ — discontinued
+- ~~[AfreecaTV Auto Recorder](https://github.com/dltkddnr04/AfreecaTV-Auto-Recorder)~~ — discontinued
 - [Integrated Recorder](https://github.com/dltkddnr04/Integrated-Recorder)
 
 ### Other Projects
